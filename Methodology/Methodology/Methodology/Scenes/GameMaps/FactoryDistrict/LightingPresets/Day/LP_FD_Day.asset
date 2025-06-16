@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eacf1c1d76bbccc419ea7f989822b1cf, type: 3}
+  m_Name: LP_FD_Day
+  m_EditorClassIdentifier: 
+  SkyBoxMaterial: {fileID: 2100000, guid: f2371eb70e9964342b85132657da12be, type: 2}
+  AmbientMode: 1
+  AmbientSkyColor: {r: 0.70980394, g: 0.8156863, b: 0.9254902, a: 0}
+  AmbientEquatorColor: {r: 0.4509804, g: 0.40784314, b: 0.3882353, a: 0}
+  AmbientGroundColor: {r: 0.16470589, g: 0.14117648, b: 0.14117648, a: 0}
+  AmbientIntensity: 1
+  SubtractiveShadowColor: {r: 0.41568628, g: 0.43137255, b: 0.4745098, a: 1}
+  ReflectionIntensity: 0.5
+  DefaultReflectionResolution: 128
+  DefaultReflectionMode: 0
+  IsFog: 1
+  FogDensity: 0.0007
+  FogMode: 3
+  FogColor: {r: 0.36862746, g: 0.36862746, b: 0.36862746, a: 1}
